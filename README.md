@@ -8,7 +8,7 @@ Student full-stack developer in the Philippines. I build web apps end to end: Re
 [![Random WebDev](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=Random-Learning-WebDev&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/Random-Learning-WebDev)
 [![St. Joseph Village](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=st-joseph-village&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/st-joseph-village)
 
-[![Portfolio v2](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=houtaroudes-portfolio-v2&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/houtaroudes-portfolio-v2)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=houtaroudes-portfolio&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/houtaroudes-portfolio)
 [![Modern Filipino Homes](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=Modern-Filipino-Homes&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/Modern-Filipino-Homes)
 
 # 💻 Tech Stack:
