@@ -1,7 +1,7 @@
 # About Me:
 Student full-stack developer in the Philippines. I build web apps end to end: React and Vite on the front, PHP or Node behind it, MySQL for the data, and the Vercel deploy that puts it online.
 
-The work I point people at first: [Flipbook Portfolio](https://houtaroudes-flipbook-portfolio.vercel.app), ten projects bound into a 3D book you can turn with three.js, and [PixelPodWeb](https://pixelpodweb.vercel.app), a photobooth with strip layouts, filters and a PHP and MySQL back end.
+The work I point people at first: [Random Web Dev](https://random-learning-webdev-site.vercel.app), a gamified pixel learning hub where each exercise runs in the page, and [St. Joseph Village](https://st-joseph-village.vercel.app), a subdivision site with a generated 3D village, a site plan and a financing calculator. Then [PixelPodWeb](https://pixelpodweb.vercel.app), a photobooth with strip layouts, filters and a PHP and MySQL back end, and last [Flipbook Portfolio](https://houtaroudes-flipbook-portfolio.vercel.app), ten projects bound into a 3D book you can turn with three.js.
 
 **Portfolio:** [houtaroudes-myportfolio.vercel.app](https://houtaroudes-myportfolio.vercel.app) · **Email:** [houtaroudes@gmail.com](mailto:houtaroudes@gmail.com)
 
