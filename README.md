@@ -1,5 +1,7 @@
 # About Me:
-Student full-stack developer in the Philippines. I build web apps end to end: React front ends, PHP or Node back ends, MySQL databases, and the deploy that puts them online.
+Student full-stack developer in the Philippines. I build web apps end to end: React and Vite on the front, PHP or Node behind it, MySQL for the data, and the Vercel deploy that puts it online.
+
+The work I point people at first: [Flipbook Portfolio](https://houtaroudes-flipbook-portfolio.vercel.app), ten projects bound into a 3D book you can turn with three.js; [PixelPodWeb](https://pixelpodweb.vercel.app), a photobooth with strip layouts, filters and a PHP and MySQL back end; and [PixCodes](https://pixcodes.vercel.app), a game that reads the CSS you write and tells you what is wrong with it.
 
 **Portfolio:** [houtaroudes-myportfolio.vercel.app](https://houtaroudes-myportfolio.vercel.app) · **Email:** [houtaroudes@gmail.com](mailto:houtaroudes@gmail.com)
 
