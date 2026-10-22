@@ -7,7 +7,7 @@ The work I point people at first: [Random Web Dev](https://random-learning-webde
 
 # Featured Projects:
 
-[![Random WebDev](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=Random-Learning-WebDev&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/Random-Learning-WebDev)
+[![Random WebDev](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=Random-Learning-WebDev&theme=tokyonight&hide_border=true&v=2)](https://github.com/houtaroudes/Random-Learning-WebDev)
 [![St. Joseph Village](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=st-joseph-village&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/st-joseph-village)
 
 [![PixelPodWeb](https://github-readme-stats.vercel.app/api/pin/?username=houtaroudes&repo=PixelPodWeb&theme=tokyonight&hide_border=true)](https://github.com/houtaroudes/PixelPodWeb)
